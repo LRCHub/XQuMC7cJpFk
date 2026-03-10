@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "GO FOR IT !!",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2026-03-10T13:39:40.284266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Young Guns (Go For It!)",
+      "artist": "Wham!",
+      "has_synced": false,
+      "path": "select/01_Young_Guns_(Go_For_It!)_Wham!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go For It",
+      "artist": "Die Happy",
+      "has_synced": true,
+      "path": "select/02_Go_For_It_Die_Happy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go For It",
+      "artist": "Stiff Little Fingers",
+      "has_synced": false,
+      "path": "select/03_Go_For_It_Stiff_Little_Fingers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go for It (2002 Remaster)",
+      "artist": "Stiff Little Fingers",
+      "has_synced": false,
+      "path": "select/04_Go_for_It_(2002_Remaster)_Stiff_Little_Fingers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Young Guns (Go For It)",
+      "artist": "Wham!",
+      "has_synced": true,
+      "path": "select/05_Young_Guns_(Go_For_It)_Wham!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go For It",
+      "artist": "Joe Jackson",
+      "has_synced": true,
+      "path": "select/06_Go_For_It_Joe_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go for It (Heart and Fire)",
+      "artist": "Joey B. Ellis & Tynetta Hare",
+      "has_synced": true,
+      "path": "select/07_Go_for_It_(Heart_and_Fire)_Joey_B._Ellis_&_Tynetta_Hare.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "go for it!",
+      "artist": "joey b. ellis and tynetta hare",
+      "has_synced": true,
+      "path": "select/08_go_for_it!_joey_b._ellis_and_tynetta_hare.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Young Guns (Go for It)",
+      "artist": "Wham!",
+      "has_synced": true,
+      "path": "select/09_Young_Guns_(Go_for_It)_Wham!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go For It",
+      "artist": "Djo",
+      "has_synced": true,
+      "path": "select/10_Go_For_It_Djo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "go for it!",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/11_go_for_it!_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "go for it!",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/12_go_for_it!_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go for It!",
+      "artist": "Wham!",
+      "has_synced": false,
+      "path": "select/13_Go_for_It!_Wham!.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Go In the Go-for-It",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/14_The_Go_In_the_Go-for-It_Grandaddy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GO FOR IT‼",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_03_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_04_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_05_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_06_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_07_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_08_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_09_GO_FOR_IT!!_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "GO FOR IT!!",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_10_GO_FOR_IT!!_西野_カナ.txt"
+    }
+  ]
+}
